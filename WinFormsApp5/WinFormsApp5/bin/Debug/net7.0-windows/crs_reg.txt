@@ -1,0 +1,5 @@
+Name: kha
+age: 22
+Gender: Male
+Address: mit ghamer
+Courses: c#

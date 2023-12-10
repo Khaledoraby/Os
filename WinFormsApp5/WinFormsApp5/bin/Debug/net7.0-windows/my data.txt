@@ -1,0 +1,5 @@
+Your name is :kh
+Your age is : 25
+You Are :male
+You from :France
+Your courses is :c	c#	
